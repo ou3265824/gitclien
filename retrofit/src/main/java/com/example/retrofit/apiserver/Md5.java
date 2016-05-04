@@ -1,4 +1,4 @@
-package com.example.retrofit.utils;
+package com.example.retrofit.apiserver;
 
 import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;

@@ -8,7 +8,7 @@ import com.example.retrofit.apiserver.ApiServer;
 import com.example.retrofit.model.bean.BaseEntity;
 import com.example.retrofit.model.bean.ProductDetails;
 import com.example.retrofit.managers.HttpLoader;
-import com.example.retrofit.utils.Chek;
+import com.example.retrofit.apiserver.Chek;
 
 import retrofit2.Call;
 import retrofit2.Callback;

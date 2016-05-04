@@ -1,6 +1,6 @@
 package com.example.retrofit.Builder;
 
-import com.example.retrofit.utils.Chek;
+import com.example.retrofit.apiserver.Chek;
 
 import java.io.IOException;
 
